@@ -14,6 +14,13 @@ export default defineConfig({
         {
           link: "intro",
           label: "Intro"
+        },
+        {
+          label: "Fundamentals",
+          items: [
+            { label: "Basic Syntax", slug: "fundamentals/syntax" },
+            { label: "Selectors", slug: "fundamentals/selectors" }
+          ]
         }
         // {
         //   label: "Guides",
