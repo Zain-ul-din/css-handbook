@@ -18,6 +18,7 @@ export default defineConfig({
         {
           label: "Fundamentals",
           items: [
+            { slug: "fundamentals/101" },
             { label: "Basic Syntax", slug: "fundamentals/syntax" },
             { label: "Selectors", slug: "fundamentals/selectors" }
           ]
