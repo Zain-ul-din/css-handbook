@@ -17,7 +17,7 @@ In this code, `h1` is the selector, and all the code within the braces is the `d
 ### Comments
 
 Like other languages we can also write comments in CSS.
-Here Syntax to write comment in CSS:
+Here is the Syntax to write comment in CSS:
 
 ```css
 /* This is comment */
